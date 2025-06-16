@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(101, 138, 231);
+    height: 75px;
+    width: 100%;
+    padding: 0px 100px;
+    position: fixed;
+}
+nav h3{
+    color: white;
+    float: left;   
+}
+nav ul{
+    float: right;
+}
+nav li{
+    display: inline-block;
+}
+nav li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    padding: 0px 30px;
+}
