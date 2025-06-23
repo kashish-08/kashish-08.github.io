@@ -1,3 +1,5 @@
+//operators
+
 // let a = "10"
 // let b = 10
 // console.log(a+b)
@@ -10,7 +12,7 @@
 
 // let x = "2"
 // let y = 2
-// console.log(x===y) //compares type
+// console.log(x===y) //compares type and then value
 
 // let x = 5
 // let y = 2

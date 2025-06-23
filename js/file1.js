@@ -1,3 +1,5 @@
+//javascript introduction
+
 let std_name = 'kashish'
 let age = 21
 let score
